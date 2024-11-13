@@ -1,7 +1,3 @@
-Here's a structured README file draft for your GitHub project, complete with visual elements and detailed descriptions based on your provided documents and code.
-
----
-
 # 🍄 Automated Fungi Classification Project
 
 Welcome to the Automated Fungi Classification project, developed for the Brisbane Flora and Fauna Society (BFFS). This project leverages machine learning (ML) and computer vision to classify fungi species from photographs, distinguishing between edible and poisonous types. This system aims to help prevent poisoning incidents while promoting safe foraging and ecological awareness.
