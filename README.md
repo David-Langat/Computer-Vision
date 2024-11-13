@@ -135,5 +135,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Special thanks to the Brisbane Flora and Fauna Society for their collaboration and support. The dataset is credited to Picek, Lukáš et al., from the "Danish fungi 2020" image recognition dataset.
 
 ---
-
-Feel free to replace placeholder images and paths with the actual visuals and file locations. If you need any additional sections or modifications, let me know!
