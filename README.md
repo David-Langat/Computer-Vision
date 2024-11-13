@@ -80,7 +80,7 @@ The following techniques were applied to increase model robustness:
 
 **Figure 1: Data Augmentation Pipeline**
 
-> ![Data Augmentation Pipeline](path/to/augmentation_pipeline_image.png)
+> ![Data Augmentation Pipeline](images\transformations.png)
 
 ## 📊 Performance
 
@@ -98,7 +98,7 @@ The model achieved a **validation accuracy of 84%**, with the following key perf
 
 **Figure 2: Confusion Matrix**
 
-> ![Confusion Matrix](path/to/confusion_matrix_image.png)
+> ![Confusion Matrix](images\expanded_confussion_matrix.png)
 
 ### Inference Speed
 
@@ -111,7 +111,7 @@ The confusion matrix highlights strong performance, but there are some consisten
 
 **Figure 3: Performance Metrics**
 
-> ![Performance Metrics](path/to/performance_metrics_image.png)
+> ![Performance Metrics](images\performance.png)
 
 ## 🔧 Challenges and Recommendations
 
